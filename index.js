@@ -94,7 +94,7 @@ client.on(`message`, async (message) => {
     .setTimestamp()
     .setDescription(`
 
-[Support](https://discord.gg/tzkTPQBRde) - [Invite](https://discord.com/api/oauth2/authorize?client_id=830137375010979870&permissions=8&scope=bot)
+[Support](https://discord.gg/tzkTPQBRde) - [Invite](https://discord.com/api/oauth2/authorize?client_id=906969499360702535&permissions=8&scope=bot)
 
 **Developers Bot** :
 KILLUA
@@ -127,7 +127,7 @@ c?
 
 [Support](https://discord.gg/tzkTPQBRde)
 -
-[Invite](https://discord.com/api/oauth2/authorize?client_id=830137375010979870&permissions=8&scope=bot)`)
+[Invite](https://discord.com/api/oauth2/authorize?client_id=906969499360702535&permissions=8&scope=bot)`)
     .setFooter(message.author.username, message.author.displayAvatarURL)
     .setImage(``)
     .setTitle(`**Support Zooya**`) 
