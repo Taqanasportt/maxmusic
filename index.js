@@ -89,7 +89,7 @@ client.on(`message`, async (message) => {
     const embed = new Discord.MessageEmbed()
     .setColor("YELLOW")
     .setAuthor("About Zooya Bot.", "https://media.discordapp.net/attachments/815252825012568085/815266512414703656/image0.png")
-    .setThumbnail(`https://media.discordapp.net/attachments/815252825012568085/815266512414703656/image0.png `)
+    .setThumbnail(`https://media.discordapp.net/attachments/903120888940085278/907108808432705536/IMG_0122.png `)
     .setFooter(message.author.username, message.author.displayAvatarURL)
     .setTimestamp()
     .setDescription(`
@@ -97,7 +97,7 @@ client.on(`message`, async (message) => {
 [Support](https://discord.gg/tzkTPQBRde) - [Invite](https://discord.com/api/oauth2/authorize?client_id=906969499360702535&permissions=8&scope=bot)
 
 **Developers Bot** :
-KILLUA
+taqana
 
 **Set Status** :
 Online
@@ -106,7 +106,7 @@ Online
 25/1/2021
 
 **Prefix Bot** :
-c?
+!
 
 `)
 
@@ -131,7 +131,7 @@ c?
     .setFooter(message.author.username, message.author.displayAvatarURL)
     .setImage(``)
     .setTitle(`**Support Zooya**`) 
-    .setThumbnail(`https://media.discordapp.net/attachments/809000331807424512/814581827192881152/image0.png`)
+    .setThumbnail(`https://media.discordapp.net/attachments/903120888940085278/907108808432705536/IMG_0122.png `)
     .setTimestamp()
     
     //send the Message
