@@ -20,15 +20,15 @@ module.exports = {
     .setDescription(`
 
 **User Commands**
-\`!invite\` - \`!support\` - \`!about\`
-\`!ping\` - \`!prefix\` - \`!uptime\`
+\`+invite\` - \`+support\` - \`+about\`
+\`+ping\` - \`+prefix\` - \`+uptime\`
 
 **Music Commands**
-\`!play\` - \`!skip\` - \`!skipto\`
-\`!stop\` - \`!volume\` - \`!nowplaying\`
-\`!shuffle\` - \`!search\` - \`!resume\`
-\`!remove\` - \`!queue\` - \`!filter\`
-\`!loop\` - \`!lyrics\` - \`!radio\`
+\`+play\` - \`+skip\` - \`+skipto\`
+\`+stop\` - \`+volume\` - \`+nowplaying\`
+\`+shuffle\` - \`+search\` - \`+resume\`
+\`+remove\` - \`+queue\` - \`+filter\`
+\`+loop\` - \`+lyrics\` - \`+radio\`
 
 **Links**
 [Support](https://discord.gg/YaWwrRs9jC) - [Invite](https://discord.com/api/oauth2/authorize?client_id=906969499360702535&permissions=8&scope=bot)
