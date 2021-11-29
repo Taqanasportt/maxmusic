@@ -6,7 +6,7 @@ const db = require('quick.db');
 const { TOKEN, PREFIX, AVATARURL, BOTNAME, } = require(`./config.json`);
 const figlet = require("figlet");
 const client = new Client({ disableMentions: `` , partials: ['MESSAGE', 'CHANNEL', 'REACTION'] });
-client.login('OTA2OTY5NDk5MzYwNzAyNTM1.YYgXKw.zdkrXT4LZo9oYIch0Q0e5wzoxp4');
+client.login('OTA2OTY5NDk5MzYwNzAyNTM1.YYgXKw.rhhR5MDt1VPYXR1Z33POs2Sxb0s');
 client.commands = new Collection();
 client.setMaxListeners(0);
 client.prefix = PREFIX;
@@ -94,7 +94,7 @@ client.on(`message`, async (message) => {
     .setTimestamp()
     .setDescription(`
 
-[Support](https://discord.gg/5ZAua27Jsx) - [Invite](https://discord.com/api/oauth2/authorize?client_id=906969499360702535&permissions=8&scope=bot)
+[Support](https://discord.gg/rpUuBKHDBD) - [Invite]()
 
 **Developers Bot** :
 taqana
